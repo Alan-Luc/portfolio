@@ -16,7 +16,7 @@ const Page = () => {
       <Container>
         <Section>
         <Box borderRadius="lg" bg={useColorModeValue("#9DAF89", "#415865")} p ={3} mb={6} align="center" mt={8}>
-          Hello, I&apos;m full-stack web developer based in Toronto!
+          Hello, I&apos;m a full-stack web developer based in Toronto!
         </Box>
         <Box display={{md: 'flex'}}>
           <Box flexGrow={1}>
