@@ -84,13 +84,13 @@ const Page = () => {
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://www.linkedin.com/in/alanluc0611" target="_blank">
+            <Link href="https://www.linkedin.com/in/alanluc~" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme={useColorModeValue("#9DAF89", "#415865")}
                 leftIcon={<Icon as={IoLogoLinkedin} />}
               >
-                @alanluc0611
+                @alanluc~
               </Button>
             </Link>
           </ListItem>
