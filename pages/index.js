@@ -119,7 +119,7 @@ const Page = () => {
         </List>
 
         <Box align="center" my={4}>
-            <NextLink href="/AlanLucResume2021.pdf">
+            <NextLink href="/AlanLucResume2022.pdf">
               <Button rightIcon={<ChevronRightIcon/>} bg={useColorModeValue("#9DAF89", "#415865")}>
                 My Resume
               </Button>
